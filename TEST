@@ -4,6 +4,6 @@ def main():
   """ function """
   name = input()
   print("Hello " + name)
+  print("TEST")
   
  main()
- 
