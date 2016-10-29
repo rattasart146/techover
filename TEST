@@ -1,0 +1,9 @@
+""" TEST PROGRAMMING """
+
+def main():
+  """ function """
+  name = input()
+  print("Hello " + name)
+  
+ main()
+ 
